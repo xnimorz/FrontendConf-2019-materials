@@ -1,6 +1,10 @@
 # Материалы к докладу "Hit Points вашего сервиса".
 
-Слайды доклада: https://docs.google.com/presentation/d/1rsWuGOLgW956Rsp3-t08lIg-R3tdQuiy0Uo9TtjY2hU/edit
+Слайды доклада: 
+
+GoogleDocs: https://docs.google.com/presentation/d/1rsWuGOLgW956Rsp3-t08lIg-R3tdQuiy0Uo9TtjY2hU/edit
+
+PDF: https://github.com/xnimorz/FrontendConf-2019-materials/blob/master/pdf/%D0%A0%D0%98%D0%A2%2B%2B.%20Hit%20Points%20%D0%B2%D0%B0%D1%88%D0%B5%D0%B3%D0%BE%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0.pdf
 
 ## Полезные ссылки:
 
